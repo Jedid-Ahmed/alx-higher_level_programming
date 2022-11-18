@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""Module matrix_mul
-Multiplies two matrices and returns the result.
-"""
+
+"""Defines a matrix multiplication function."""
 
 
 def matrix_mul(m_a, m_b):
